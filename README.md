@@ -1,4 +1,5 @@
 # Personal-Algorithmic-Learning-Notes---Preparing-for-Internship
+https://how2j.cn/
 Study 
 1.	Where do you study? 
 I study at SEU which is the SouthEast University. I am a junior student majoring in Computer Science. I moved away from my hometown to study here.
